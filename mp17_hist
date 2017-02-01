@@ -1,0 +1,53 @@
+    1  cd desktop
+    2  ls
+    3  cd project/
+    4  git init
+    5  git add file.txt 
+    6  git commit -m "Initial commit"
+    7  git remote add origin https://github.com/t00186568/maths.git
+    8  git push -u origin master
+    9  clear
+   10  cd ..
+   11  cd attempt2/
+   12  git init
+   13  git add file.txt 
+   14  git commit -m "initial commit 14:46"
+   15  git remote add origin http://github.com/t00186568/mp17
+   16  git push -u master
+   17  git push -u origin 
+   18  git push -u origin
+   19  git push 
+   20  git push -u origin master
+   21  git remote add origin https://github.com/t00186568/attempt2.git
+   22  git push -u origin master
+   23  git remote add origin https://github.com/t00186568/attempt2.git
+   24  git push -u origin master
+   25  git status
+   26  git pull
+   27  git status
+   28  git push -u origin master
+   29  git checkout
+   30  git push -u origin master
+   31  exit
+   32  cd Desktop/
+   33  ls
+   34  cd attempt2/
+   35  ls
+   36  git init
+   37  git status
+   38  git remote add origin https://github.com/t00186568/attempt2.git
+   39  git push -u origin master
+   40  git status
+   41  git commit -m "version 2"
+   42  history
+   43  ls
+   44  git Desktop/
+   45  cd Desktop/
+   46  ls
+   47  cd attempt2/
+   48  git init
+   49  git status
+   50  git commit -m "version 2"
+   51  git add file.txt 
+   52  git commit -m "version 2"
+   53  history > mp17_hist
